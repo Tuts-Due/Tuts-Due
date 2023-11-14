@@ -31,5 +31,3 @@
 
 Apaixonado por Tecnologia!!
 
- ![Snake animation](https://github.com/Tuts-Due/Tuts-Due/blob/output/github-contribution-grid-snake.svg)
-
