@@ -9,7 +9,6 @@
 
 
 ### Tecnologias que uso: 
-
 <div style = "display: inline_block"><br/>
 <br/>
   
