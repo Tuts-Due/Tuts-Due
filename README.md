@@ -5,7 +5,12 @@
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/VTLP3IKBV4E4F1)
 [![Blog](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/tutsdue)
 
+![Tuts GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuts-Due&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuts-Due&layout=compact)
+
+### Tecnologias que uso: 
+<div style = "display: inline_block"><br/>
 <br/>
   
 <img align="center " alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
